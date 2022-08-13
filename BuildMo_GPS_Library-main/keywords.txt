@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For BuildMo_GPS
+#######################################
+# Class
+#######################################
+
+BuildMo_GPS 	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################	
+
+common_init		KEYWORD2
+readLat			KEYWORD2
+readLong 		KEYWORD2
+readTime		KEYWORD2
+readFix			KEYWORD2
+NMEAavailable	KEYWORD2
+
+
+#######################################
+# Constants
+#######################################
+
+
+
+
